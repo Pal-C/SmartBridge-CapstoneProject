@@ -1,10 +1,10 @@
 # Salesforce Project - SmartBridge Capstone Project: AgriEdge Order Management System (OMS)
 Revolutionizing Agriculture with AgriEdge Order-Manage Ltd: A Salesforce-Driven Order Management Solution
 
-This repository contains the metadata and source code for the **AgriEdge Order-Manage Ltd** Salesforce application, developed in a Salesforce Developer Org.
+This repository contains the metadata and source code for the **AgriEdge Or-Mange Ltd** Salesforce application, developed in a Salesforce Developer Org.
 
 ## 📌 Overview
-- **Purpose:** To simplify AgriEdge Order-Manage Ltd's order management operations, powered by Salesforce. Order processing is automated to minimize human mistakes, real-time inventory is offered for precise stock control, and seamless integration with customer support channels guarantees timely, knowledgeable assistance. The OMS provides the business with reporting and analystics, enabling it to make data-driven choices, maximize supply chain efficiency, and keep a competitive advantage in the food production and agriculture sector.
+- **Purpose:** To simplify AgriEdge Or-Mange Ltd's order management operations, powered by Salesforce. Order processing is automated to minimize human mistakes, real-time inventory is offered for precise stock control, and seamless integration with customer support channels guarantees timely, knowledgeable assistance. The OMS provides the business with reporting and analystics, enabling it to make data-driven choices, maximize supply chain efficiency, and keep a competitive advantage in the food production and agriculture sector.
 - **Technologies:** Apex, Triggers, Custom Objects
 - **Platform:** Salesforce
 
